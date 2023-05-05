@@ -9,32 +9,21 @@ namespace TP1_Simulacion_Generacion_de_Numeros_Aleatorios.Modelos
     class GeneradorDelLenguaje : IGenerador
     {
         Random metodoLenguaje;
+        double[] rnd;
+        double posicion;
         public GeneradorDelLenguaje()
         {
             metodoLenguaje = new Random();
+            rnd = new double[3];
+            posicion = 1;
         }
-        public List<double> generarListaNumeros()
+        public double[] generarRandom()
         {
-            //no se utiliza este metodo para este generador
-            return null;
-        }
-        public double generarSiguienteNumero()
-        {
-            //no se utiliza este metodo para este generador
-            return 0;
-        }
-
-        public List<double> generarSerieParaPrueba(int cantidad)
-        {
-            //Genera la cantidad pasada por parametro de randoms con el metodo provisto por el lenguaje para realizar la prueba de chi cuadrado
-            List<double> lista = new List<double>();
-            for (int i = 0; i < cantidad; i++)
-            {
-                double random = metodoLenguaje.NextDouble();
-                double rnd = Math.Round(random, 4);
-                lista.Add(rnd);
-            }
-            return lista;
+            rnd[0] = posicion;
+            double random = metodoLenguaje.NextDouble();
+            rnd[2] = Math.Round(random, 4);
+            posicion += 1;
+            return rnd;
         }
     }
 }

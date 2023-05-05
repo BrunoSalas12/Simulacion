@@ -1,0 +1,15 @@
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\TP3 Generacion de Variable Aleatoria.exe.config
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\TP3 Generacion de Variable Aleatoria.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\TP3 Generacion de Variable Aleatoria.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3 Generacion de Variable Aleatoria.csprojAssemblyReference.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3_Generacion_de_Variable_Aleatoria.PantallaVariableAleatoria.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3_Generacion_de_Variable_Aleatoria.Properties.Resources.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3 Generacion de Variable Aleatoria.csproj.GenerateResource.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3 Generacion de Variable Aleatoria.csproj.CoreCompileInputs.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3 Generacion de Variable Aleatoria.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3 Generacion de Variable Aleatoria.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\MathNet.Numerics.dll
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\System.ValueTuple.dll
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\MathNet.Numerics.xml
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\bin\Debug\System.ValueTuple.xml
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP3 Generacion de Variable Aleatoria\obj\Debug\TP3 Generacion de Variable Aleatoria.csproj.CopyComplete

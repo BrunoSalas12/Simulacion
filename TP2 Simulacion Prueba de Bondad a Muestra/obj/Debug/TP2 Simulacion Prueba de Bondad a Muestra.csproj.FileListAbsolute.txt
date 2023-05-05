@@ -1,0 +1,13 @@
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\bin\Debug\TP2 Simulacion Prueba de Bondad a Muestra.exe.config
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\bin\Debug\TP2 Simulacion Prueba de Bondad a Muestra.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\bin\Debug\TP2 Simulacion Prueba de Bondad a Muestra.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\bin\Debug\MathNet.Numerics.dll
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\bin\Debug\MathNet.Numerics.xml
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2 Simulacion Prueba de Bondad a Muestra.csprojAssemblyReference.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2_Simulacion_Prueba_de_Bondad_a_Muestra.PantallaInicio.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2_Simulacion_Prueba_de_Bondad_a_Muestra.Properties.Resources.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2 Simulacion Prueba de Bondad a Muestra.csproj.GenerateResource.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2 Simulacion Prueba de Bondad a Muestra.csproj.CoreCompileInputs.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2 Simulacion Prueba de Bondad a Muestra.csproj.CopyComplete
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2 Simulacion Prueba de Bondad a Muestra.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP2 Simulacion Prueba de Bondad a Muestra\obj\Debug\TP2 Simulacion Prueba de Bondad a Muestra.pdb

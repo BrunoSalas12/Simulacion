@@ -1,0 +1,20 @@
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\bin\Debug\TP5 Simulacion de Sistemas de Colas.exe.config
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\bin\Debug\TP5 Simulacion de Sistemas de Colas.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\bin\Debug\TP5 Simulacion de Sistemas de Colas.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5 Simulacion de Sistemas de Colas.csprojAssemblyReference.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5_Simulacion_de_Sistemas_de_Colas.PantallaPrincipal.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5_Simulacion_de_Sistemas_de_Colas.Properties.Resources.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5 Simulacion de Sistemas de Colas.csproj.GenerateResource.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5 Simulacion de Sistemas de Colas.csproj.CoreCompileInputs.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5 Simulacion de Sistemas de Colas.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Simulacion de Sistemas de Colas\obj\Debug\TP5 Simulacion de Sistemas de Colas.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5 Simulacion de Sistemas de Colas.csprojAssemblyReference.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5_Simulacion_de_Sistemas_de_Colas.PantallaPrincipal.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5_Simulacion_de_Sistemas_de_Colas.Properties.Resources.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5 Simulacion de Sistemas de Colas.csproj.GenerateResource.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5 Simulacion de Sistemas de Colas.csproj.CoreCompileInputs.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5 Simulacion de Sistemas de Colas.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\obj\Debug\TP5 Simulacion de Sistemas de Colas.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\bin\Debug\TP5 Simulacion de Sistemas de Colas.exe.config
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\bin\Debug\TP5 Simulacion de Sistemas de Colas.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP5 Y 6 Simulacion de Sistemas de Colas y Continuos\bin\Debug\TP5 Simulacion de Sistemas de Colas.pdb

@@ -1,0 +1,54 @@
+Parametros de la prueba
+
+Tiempo de Simulacion:	10-0:0:0
+Cantidad de Empeleados Caseta:	5
+Cantidad de Circuitos de Revision:	2
+Cantidad de Empleados Oficina:	5
+Media de Llegadas:	1,05 minutos
+Media de Atencion Caseta:	1 minutos
+Media de Revision:	1,33 miutos
+Media de Atencion Oficina:	2 minutos
+
+Resultados
+
+Cantidad de Clientes que Llegaron	Tiempo Promedio en Sistema	Porcentaje de Clientes no Atendidos	Porcentaje de Ocupacion Empleado Caseta 1	Porcentaje de Ocupacion Empleado Caseta 2	Porcentaje de Ocupacion Empleado Caseta 3	Porcentaje de Ocupacion Empleado Caseta 4	Porcentaje de Ocupacion Empleado Caseta 5	Porcentaje de Ocupacion Empleado Oficina 1	Porcentaje de Ocupacion Empleado Oficina 2	Porcentaje de Ocupacion Empleado Oficina 3	Porcentaje de Ocupacion Empleado Oficina 4	Porcentaje de Ocupacion Empleado Oficina 5
+13899	0-0:7:40	0,76	42,48	27,13	14,1	7,48	5,4	60,21	51,45	37,79	26	14,86
+
+'--Siguiente Prueba--
+
+Parametros de la prueba
+
+Tiempo de Simulacion:	10-0:0:0
+Cantidad de Empeleados Caseta:	5
+Cantidad de Circuitos de Revision:	2
+Cantidad de Empleados Oficina:	5
+Media de Llegadas:	3,05 minutos
+Media de Atencion Caseta:	3 minutos
+Media de Revision:	3,33 miutos
+Media de Atencion Oficina:	4 minutos
+
+Resultados
+
+Cantidad de Clientes que Llegaron	Tiempo Promedio en Sistema	Porcentaje de Clientes no Atendidos	Porcentaje de Ocupacion Empleado Caseta 1	Porcentaje de Ocupacion Empleado Caseta 2	Porcentaje de Ocupacion Empleado Caseta 3	Porcentaje de Ocupacion Empleado Caseta 4	Porcentaje de Ocupacion Empleado Caseta 5	Porcentaje de Ocupacion Empleado Oficina 1	Porcentaje de Ocupacion Empleado Oficina 2	Porcentaje de Ocupacion Empleado Oficina 3	Porcentaje de Ocupacion Empleado Oficina 4	Porcentaje de Ocupacion Empleado Oficina 5
+4819	0-0:13:13	0	43,3	28,72	15,02	8,44	4,49	55	40	23	11	3,71
+
+'--Siguiente Prueba--
+
+Parametros de la prueba
+
+Tiempo de Simulacion:	10-0:0:0
+Cantidad de Empeleados Caseta:	5
+Cantidad de Circuitos de Revision:	2
+Cantidad de Empleados Oficina:	5
+Media de Llegadas:	1 minutos
+Media de Atencion Caseta:	3 minutos
+Media de Revision:	3,33 miutos
+Media de Atencion Oficina:	4 minutos
+
+Resultados
+
+Cantidad de Clientes que Llegaron	Tiempo Promedio en Sistema	Porcentaje de Clientes no Atendidos	Porcentaje de Ocupacion Empleado Caseta 1	Porcentaje de Ocupacion Empleado Caseta 2	Porcentaje de Ocupacion Empleado Caseta 3	Porcentaje de Ocupacion Empleado Caseta 4	Porcentaje de Ocupacion Empleado Caseta 5	Porcentaje de Ocupacion Empleado Oficina 1	Porcentaje de Ocupacion Empleado Oficina 2	Porcentaje de Ocupacion Empleado Oficina 3	Porcentaje de Ocupacion Empleado Oficina 4	Porcentaje de Ocupacion Empleado Oficina 5
+14577	1-22:34:11	1,13	71,52	66,63	61,8	54,24	47,44	72	62	50	37	23
+
+'--Siguiente Prueba--
+

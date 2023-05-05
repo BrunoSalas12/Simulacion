@@ -1,0 +1,11 @@
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7 Individual.csproj.AssemblyReference.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7 Individual.csproj.SuggestedBindingRedirects.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7_Individual.PantallaPrincipal.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7_Individual.Properties.Resources.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7 Individual.csproj.GenerateResource.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7 Individual.csproj.CoreCompileInputs.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\bin\Debug\TP7 Individual.exe.config
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\bin\Debug\TP7 Individual.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\bin\Debug\TP7 Individual.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7 Individual.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP7 Individual\obj\Debug\TP7 Individual.pdb

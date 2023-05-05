@@ -1,0 +1,16 @@
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\bin\Debug\TP4 Simulacion de Montecarlo Puerto.exe.config
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\bin\Debug\TP4 Simulacion de Montecarlo Puerto.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\bin\Debug\TP4 Simulacion de Montecarlo Puerto.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4 Simulacion de Montecarlo Puerto.csprojAssemblyReference.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.TP4MontecarloPuerto.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.Properties.Resources.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4 Simulacion de Montecarlo Puerto.csproj.GenerateResource.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4 Simulacion de Montecarlo Puerto.csproj.CoreCompileInputs.cache
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4 Simulacion de Montecarlo Puerto.exe
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4 Simulacion de Montecarlo Puerto.pdb
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.PantallasParametros.PantallaParamsCongUniformeDescargas.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.PantallasParametros.PantallaParamsCongDescargas.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.PantallasParametros.PantallaParamsCongLlegadas.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.PantallasParametros.PantallaParamsCongNormalGanancias.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.PantallasParametros.PantallaParamsCongPoissonLlegadas.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP4 Simulacion de Montecarlo Puerto\obj\Debug\TP4_Simulacion_de_Montecarlo_Puerto.PantallasParametros.HorasLlegada.resources

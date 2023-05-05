@@ -20,3 +20,7 @@ G:\TP1 Simulacion Generacion de Numeros Aleatorios\obj\Debug\TP1 Simulacion Gene
 G:\TP1 Simulacion Generacion de Numeros Aleatorios\obj\Debug\TP1 Simulacion Generacion de Numeros Aleatorios.pdb
 C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP1 Simulacion Generacion de Numeros Aleatorios\obj\Debug\TP1_Simulacion_Generacion_de_Numeros_Aleatorios.PantallaGeneracionAleatoria.resources
 C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP1 Simulacion Generacion de Numeros Aleatorios\obj\Debug\TP1_Simulacion_Generacion_de_Numeros_Aleatorios.PantallaInicio.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP1 Simulacion Generacion de Numeros Aleatorios\obj\Debug\TP1_Simulacion_Generacion_de_Numeros_Aleatorios.PantallaPruebaChiCuadrado.resources
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP1 Simulacion Generacion de Numeros Aleatorios\bin\Debug\MathNet.Numerics.dll
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP1 Simulacion Generacion de Numeros Aleatorios\bin\Debug\MathNet.Numerics.xml
+C:\Users\Flia-Salas\Desktop\Juegos\Cosas\La Uni (creo)\SIM\TPs 2022\TP1 Simulacion Generacion de Numeros Aleatorios\obj\Debug\TP1 Simulacion Generacion de Numeros Aleatorios.csproj.CopyComplete

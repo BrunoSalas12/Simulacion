@@ -8,61 +8,71 @@ namespace TP1_Simulacion_Generacion_de_Numeros_Aleatorios.Modelos
 {
     class GeneradorCongruencialMixto : IGenerador
     {
+        //Constantes del metodo
         private int semilla;
         private int multiplicador;
         private double modulo;
         private int incremento;
-        private double ultimoXn; //se guarda el ultimo Xn para poder continuar con la serie de numeros
+        //Utiliza dos vectores para conservar y generar el random anterior y siguiente
+        private double[] rnd1;
+        private double[] rnd2;
+        private double posicion;
+        private int unoOdos; //Se utiliza para saber cual es el random anterior y en cual guardar el nuevo generado
 
         public GeneradorCongruencialMixto(int X0, int a, int m, int c)
         {
+            //Se cargan las constantes con los valores pasados por parametros
             semilla = X0;
             multiplicador = a;
             modulo = m;
             incremento = c;
+            unoOdos = 0;
+            //Se inicializan los vectores randoms con tres espacios: la posicion [0], Xn [1], random [2]
+            rnd1 = new double[3];
+            rnd2 = new double[3];
         }
-        public List<double> generarListaNumeros()
+        public double[] generarRandom()
         {
-            //Genera y devuelve una lista con los primeros 20 randoms
-            List<double> lista = new List<double>();
-            double Xi = semilla;
-            for (int i = 0; i < 20; i++)
+            //Carga el vector random correspondiente con la posicion, el Xn, y el random generado utilizando el vector random con el Xn anterior
+            if (unoOdos == 0)
             {
-                double Xn = (multiplicador * Xi + incremento) % modulo;
-                double rnd = obtenerRandom(Xn);
-                lista.Add(rnd);
-                Xi = Xn;
+                posicion = 1;
+                rnd1[0] = posicion;
+                double Xn = (multiplicador * semilla + incremento) % modulo;
+                rnd1[1] = Xn;
+                rnd1[2] = obtenerRandom(rnd1[1]);
+                posicion += 1;
+                unoOdos = 1;
+                return rnd1;
             }
-            ultimoXn = Xi;
-            return lista;
-        }
-        public double generarSiguienteNumero()
-        {
-            //Genera el siguiente random de la serie
-            double Xn = (multiplicador * ultimoXn + incremento) % modulo;
-            double rnd = obtenerRandom(Xn);
-            ultimoXn = Xn;
-            return rnd;
-        }
+            else if (unoOdos == 1)
+            {
+                rnd2[0] = posicion;
+                double Xn = (multiplicador * rnd1[1] + incremento) % modulo;
+                rnd2[1] = Xn;
+                rnd2[2] = obtenerRandom(rnd2[1]);
+                posicion += 1;
+                unoOdos = 2;
+                return rnd2;
+            }
+            else if (unoOdos == 2)
+            {
+                rnd1[0] = posicion;
+                double Xn = (multiplicador * rnd2[1] + incremento) % modulo;
+                rnd1[1] = Xn;
+                rnd1[2] = obtenerRandom(rnd1[1]);
+                posicion += 1;
+                unoOdos = 1;
+                return rnd1;
+            }
+            return rnd1;
 
+        }
         private double obtenerRandom(double Xn)
         {
-            //Realiza la division para obtener el random y lo redondea a 4 decimales
-            double random = (Xn / modulo);
+            //Obtiene el random y redondea a 4 decimales
+            double random = Xn / modulo;
             return Math.Round(random, 4);
-        }
-        public List<double> generarSerieParaPrueba(int cantidad)
-        {
-            //Genera y devuelve una lista con la cantidad de randoms pasada por parametro para realizar la prueba de chi cuadrado
-            List<double> lista = new List<double>();
-            double Xi = semilla;
-            for (int i = 0; i < cantidad; i++)
-            {
-                double Xn = (multiplicador * Xi + incremento) % modulo;
-                double rnd = obtenerRandom(Xn);
-                lista.Add(rnd);
-            }
-            return lista;
         }
     }
 }
